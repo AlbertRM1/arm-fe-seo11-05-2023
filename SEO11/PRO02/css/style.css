@@ -1,0 +1,25 @@
+body {
+    background-image: url('../img/fondo.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    font-family: Arial;
+}
+
+#head {
+    display: flex;
+    width: 100%;
+}
+
+#main {
+
+}
+
+#footer {
+
+}
+
+#microsoft {
+    font-size: larger;
+    font-weight: 500;
+}
